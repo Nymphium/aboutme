@@ -3,7 +3,6 @@ layout: plain
 title: About
 author: Kawahara Satoru s1311350@gmail.com
 refer: https://nymphium.github.io/aboutme.html
-tags: {}
 ---
 
 - Website: https://nymphium.github.io
