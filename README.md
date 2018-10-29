@@ -12,6 +12,32 @@ refer: https://nymphium.github.io/aboutme.html
 I'm a graduate student at University of Tsukuba, belonging to [Programming Logic Group](http://logic.cs.tsukuba.ac.jp).
 My research target is functional programming language and that mechanisms, especially program conversion, control operators, delimited continuation and algebraic effects.
 
+# Engineering Skills
+## Languages
+- OCaml
+- Lua
+- Haskell
+- Scala
+- JavaScript
+- Racket
+- Scheme
+- Ruby
+
+## Platforms
+- Linux
+
+## Other
+- Git (locally, GitHub, BitBucket)
+
+    + GitHub activities
+
+        Please log in to see them.
+
+        * [Issues](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aissue+author%3ANymphium+archived%3Afalse+)
+        * [Pull Requess](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ANymphium+archived%3Afalse+)
+- Zsh
+- Vim/Neovim
+
 # Main works
 ## llix
 {% gh_repo nymphium/llix %}
@@ -41,6 +67,9 @@ The server uses play framework and you can access with web browser as client.
 
 # Education
 ## Bachelor: College of Information Science, University of Tsukuba, 04/2013 ~ 03/2018 
+I researched about intermediate representation about compiler for functional language.
+In this research I designed the intermediate language for impure functional language and optimization for them.
+
 Bachelor thesis: [合流点を追加したコンパイラ中間言語の設計と検証](http://logic.cs.tsukuba.ac.jp/~sat/pdf/bachelor_thesis.pdf)
 
 ## Graduate school: same as above, 04/2018 ~
@@ -54,30 +83,11 @@ Poster session at [JSSST2018](https://jssst2018.wordpress.com/): [ワンショ�
 - HERP, inc. 11/2018 ~
 - Linux Development head office, Fujitsu, as an internship, 09/2015 ~ 10/2015
 
-# Publication
+# Publications
 ## 『つくってかんたんVM-Based Interpreter』 from 『Dragon University 技術書典5』
 This column focuses on how to design virtual machine-based interpreter and implement it.
 You can learn the formalization of the VM state and the compilation rules from the source to the instruction sequence.
 
 The book gives an implementation of toy language and you can see [the source code](https://github.com/Nymphium/techbookfest5-toylang).
 You can purchase [here](https://dragonuniversity.booth.pm/items/1055860).
-
-# IT Engineering Skills
-## Languages
-- OCaml
-- Lua
-- Haskell
-- Scala
-- JavaScript
-- Racket
-- Scheme
-- Ruby
-
-## Platforms
-- Linux
-
-## Other
-- Git (locally, GitHub, BitBucket)
-- Zsh
-- Vim/Neovim
 
