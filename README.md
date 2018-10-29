@@ -18,7 +18,7 @@ My research target is functional programming language and that mechanisms, espec
 
 llix is meta-circular [Lua](https://lua.org) interpreter with exception and delimited continuation mechanism.
 The interpreter uses CPS as intermediate representation to manage contexts.
-[Here]({{ BASE_PATH }}/pdf/information_special_seminar.html) is a presentation.
+[Here](https://nymphium.github.io/pdf/information_special_seminar.html) is a presentation.
 
 ## Opeth
 {% gh_repo nymphium/opeth %}
@@ -30,7 +30,7 @@ For implementing Opeth, I read VM's source code.
 
 Opeth has an optimizer, bytecode visualizer, step-by-step instruction interpreter, based on global data/control -flow analysis, and, assembly-like language compiled to the bytecode.
 
-[Here]({{ BASE_PATH }}/pdf/opeth_report.pdf) is a report.
+[Here](https://nymphium.github.io/pdf/opeth_report.pdf) is a report.
 
 ## Pnyao
 {% gh_repo nymphium/pnyao %}
