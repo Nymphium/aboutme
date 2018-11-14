@@ -77,7 +77,7 @@ We taclke to the relationship about asymmetric coroutines and algebraic effects.
 
 Poster session at [JSSST2018](https://jssst2018.wordpress.com/): [ワンショットの限定継続に着目した代数的効果から非対称コルーチンへの変換](http://logic.cs.tsukuba.ac.jp/~sat/pdf/jssst2018.pdf)
 
-# Work carrer
+# Work career
 - National Institute of Advanced Industrial Science and Technology, 09/2014 ~ 02/2015
 - AgilePoint Japan, 05/2015 ~ 11/2018
 - HERP, inc. 11/2018 ~
