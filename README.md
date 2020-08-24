@@ -112,3 +112,7 @@ The book gives an implementation of toy language.
 This column introduces algebraic effects and handlers by examples, containing delimited controls, and talk about the advanced topics.
 
 {% twicard "https://dragonuniversity.booth.pm/items/1317197" https://dragonuniversity.booth.pm/items/1317197 %}
+
+
+## paper
+- [<u>Satoru Kawahara</u> and Yukiyoshi Kameyama, "One-shot Algebraic Effects as Coroutines," TFP 2020.](https://link.springer.com/chapter/10.1007/978-3-030-57761-2_8) [[post-symposium version]](http://logic.cs.tsukuba.ac.jp/~sat/pdf/tfp2020-postsymposium.pdf) [[slide]](http://logic.cs.tsukuba.ac.jp/~sat/pdf/tfp2020-slide.pdf) [[video]](https://www.youtube.com/watch?v=JQwc1OBOt5k)
