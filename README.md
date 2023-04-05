@@ -9,7 +9,7 @@ refer: https://nymphium.github.io/aboutme.html
 - GitHub: https://github.com/Nymphium
 
 # Summary
-+I'm a full-time software engineer working at [Kanmu, Inc.](https://kanmu.co.jp).
+I'm a full-time software engineer working at [Kanmu, Inc.](https://kanmu.co.jp).
 My interests lie in functional programming languages and their mechanisms, especially program conversion, control operators, delimited continuation, and algebraic effects.
 
 
