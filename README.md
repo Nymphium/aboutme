@@ -1,6 +1,6 @@
 ---
 layout: plain
-title: About
+title: About me
 author: Kawahara Satoru s1311350@gmail.com
 refer: https://nymphium.github.io/aboutme.html
 ---
@@ -9,8 +9,9 @@ refer: https://nymphium.github.io/aboutme.html
 - GitHub: https://github.com/Nymphium
 
 # Summary
-I'm a full-time job engineer working at [HERP, Inc.](https://herp.co.jp)
-My interests are functional programming language and that mechanisms, especially program conversion, control operators, delimited continuation and algebraic effects.
++I'm a full-time software engineer working at [Kanmu, Inc.](https://kanmu.co.jp).
+My interests lie in functional programming languages and their mechanisms, especially program conversion, control operators, delimited continuation, and algebraic effects.
+
 
 # Engineering Skills
 ## Languages
@@ -61,7 +62,7 @@ Opeth has an optimizer, bytecode visualizer, step-by-step instruction interprete
 ## Pnyao
 {% gh_repo nymphium/pnyao %}
 
-Pnyao is pdf management system.
+Pnyao is a PDF management system.
 It adopts server-client method 
 The server uses play framework and you can access with web browser as client.
 
@@ -85,7 +86,7 @@ In this research I designed the intermediate language for impure functional lang
 Bachelor thesis: [合流点を追加したコンパイラ中間言語の設計と検証](http://logic.cs.tsukuba.ac.jp/~sat/pdf/bachelor_thesis.pdf)
 
 ## Graduate school: same as above, 04/2018 ~ 03/2020
-We taclke to the relationship about asymmetric coroutines and algebraic effects.
+We investigated the relationship between asymmetric coroutines and algebraic effects.
 
 - Poster: <u>河原 悟</u>, [JSSST2018](https://jssst2018.wordpress.com/), [ワンショットの限定継続に着目した代数的効果から非対称コルーチンへの変換](http://logic.cs.tsukuba.ac.jp/~sat/pdf/jssst2018.pdf).
 - Article: <u>Satoru Kawahara</u> and Kameyama Yukiyoshi, [Trends in Functional Programming 2020](http://www.cse.chalmers.se/~rjmh/tfp/), [One-shot Algebraic Effects as Coroutines](http://logic.cs.tsukuba.ac.jp/~sat/pdf/tfp2020.pdf).
@@ -94,8 +95,9 @@ We taclke to the relationship about asymmetric coroutines and algebraic effects.
 # Work career
 - National Institute of Advanced Industrial Science and Technology, Part-time, 09/2014 ~ 02/2015.
 - AgilePoint Japan, Part-time, 05/2015 ~ 11/2018.
-- HERP, inc. Part-time, 11/2018 ~ 03/2020.
+- HERP, inc. Part-time, 11/2018 ~ 03/2020, and full-time, 04/2020 ~ 03/2023
 - Linux Development head office, Fujitsu, as an internship, 09/2015 ~ 10/2015
+- Kanmu, inc. Full-time, 04/2023 ~ Present
 
 # Publications
 ## 『つくってかんたんVM-Based Interpreter』 from 『Dragon University 技術書典5』
