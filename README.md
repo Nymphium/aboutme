@@ -1,12 +1,12 @@
 ---
 layout: plain
 title: About me
-author: Kawahara Satoru s1311350@gmail.com
+author: KAWAHARA, Satoru s1311350@gmail.com
 refer: https://nymphium.github.io/aboutme.html
 ---
 
-- Website: https://nymphium.github.io
-- GitHub: https://github.com/Nymphium
+- Website: <https://nymphium.github.io>
+- GitHub: <https://github.com/Nymphium>
 
 # Summary
 I'm a full-time software engineer working at [Kanmu, Inc.](https://kanmu.co.jp).
