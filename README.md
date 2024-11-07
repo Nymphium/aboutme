@@ -9,7 +9,7 @@ refer: https://nymphium.github.io/aboutme.html
 - GitHub: <https://github.com/Nymphium>
 
 # Summary
-I'm a full-time software engineer working at [Kanmu, Inc.](https://kanmu.co.jp).
+I'm a full-time software engineer working at [eiicon, Inc.](https://corp.eiicon.net).
 My interests lie in functional programming languages and their mechanisms, especially program conversion, control operators, delimited continuation, and algebraic effects.
 
 
@@ -97,7 +97,8 @@ We investigated the relationship between asymmetric coroutines and algebraic eff
 - AgilePoint Japan, Part-time, 05/2015 ~ 11/2018.
 - HERP, inc. Part-time, 11/2018 ~ 03/2020, and full-time, 04/2020 ~ 03/2023
 - Linux Development head office, Fujitsu, as an internship, 09/2015 ~ 10/2015
-- Kanmu, inc. Full-time, 04/2023 ~ Present
+- Kanmu, inc. Full-time, 04/2023 ~ 08/2024
+- eiicon, inc. 09/2024 ~ Present
 
 # Publications
 ## 『つくってかんたんVM-Based Interpreter』 from 『Dragon University 技術書典5』
