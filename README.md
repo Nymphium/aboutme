@@ -7,25 +7,46 @@ refer: https://nymphium.github.io/aboutme.html
 
 - Website: <https://nymphium.github.io>
 - GitHub: <https://github.com/Nymphium>
+- LinkedIn: <https://www.linkedin.com/in/nymphium/>
+- Twitter: <https://twitter.com/Nymphium>
 
 # Summary
 I'm a full-time software engineer working at [eiicon, Inc.](https://corp.eiicon.net).
 My interests lie in functional programming languages and their mechanisms, especially program conversion, control operators, delimited continuation, and algebraic effects.
 
+# Introduction
+My core technical strengths are a deep knowledge of programming language theory and practice, and the ability to adapt quickly to new technologies. I specialize in functional languages and those with strong type systems, such as OCaml and Haskell, and I hold a Master's degree where my research focused on language design and the implementation of language processing systems. I am confident that this expertise allows me to not only solve complex technical challenges but also contribute to improving our entire team's technology selection and design capabilities.
+
+Through my experience, I have recently developed a strong interest not just in advancing my individual skills, but in maximizing the productivity of the entire team. I aim to build a technically sound and collaborative team by mentoring members, fostering a strong code review culture, and improving our development processes. I find great fulfillment in overcoming difficult challenges as a united team to contribute to business success—an achievement I value more than individual accomplishments.
+
+I am looking for an environment, regardless of industry, that offers these kinds of technical and organizational challenges. Please feel free to contact me about any technical topics.
 
 # Engineering Skills
 ## Languages
-- OCaml
+### Expert
+- OCaml <3
 - Lua
+
+### Proficient
+- TypeScript
+- Go
+
+### Familiar
 - Haskell
 - Scala
-- JavaScript
 - Racket
-- Scheme
 - Ruby
+- JavaScript
 
-## Platforms
-- Linux
+## DevOps
+### CI/CD
+- GitHub Actions
+- Circle CI
+
+### Others
+- Nix
+- Terraform
+- k8s
 
 ## Other
 - Git (locally, GitHub, BitBucket)
@@ -36,8 +57,6 @@ My interests lie in functional programming languages and their mechanisms, espec
 
         * [Issues](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aissue+author%3ANymphium+archived%3Afalse+)
         * [Pull Requess](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ANymphium+archived%3Afalse+)
-- Zsh
-- Vim/Neovim
 
 # Main works
 ## llix
@@ -96,9 +115,15 @@ We investigated the relationship between asymmetric coroutines and algebraic eff
 - National Institute of Advanced Industrial Science and Technology, Part-time, 09/2014 ~ 02/2015.
 - AgilePoint Japan, Part-time, 05/2015 ~ 11/2018.
 - HERP, inc. Part-time, 11/2018 ~ 03/2020, and full-time, 04/2020 ~ 03/2023
+
+  As a software engineer w/ TypeScript, Haskell, MySQL, Nix, GitHub Actions and k8s
 - Linux Development head office, Fujitsu, as an internship, 09/2015 ~ 10/2015
 - Kanmu, inc. Full-time, 04/2023 ~ 08/2024
+
+  As a software engineer w/ Go, Python, PostgreSQL and GitHub Actions
 - eiicon, inc. 09/2024 ~ Present
+
+  As a software engineer w/ Go, Ruby, TypeScript, MySQL, AWS, Nix, GitHub Actions, Terraform and k8s
 
 # Publications
 ## 『つくってかんたんVM-Based Interpreter』 from 『Dragon University 技術書典5』
