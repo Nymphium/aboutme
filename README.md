@@ -107,14 +107,14 @@ We investigated the relationship between asymmetric coroutines and algebraic eff
 - AgilePoint Japan, Part-time, 05/2015 ~ 11/2018.
 - HERP, inc. Part-time, 11/2018 ~ 03/2020, and full-time, 04/2020 ~ 03/2023
 
-  As a software engineer w/ TypeScript, Haskell, MySQL, Nix, GitHub Actions and k8s
+    As a software engineer w/ TypeScript, Haskell, MySQL, Nix, GitHub Actions and k8s
 - Linux Development head office, Fujitsu, as an internship, 09/2015 ~ 10/2015
 - Kanmu, inc. Full-time, 04/2023 ~ 08/2024
 
-  As a software engineer w/ Go, Python, PostgreSQL and GitHub Actions
+    As a software engineer w/ Go, Python, PostgreSQL and GitHub Actions
 - eiicon, inc. 09/2024 ~ Present
 
-  As a software engineer w/ Go, Ruby, TypeScript, MySQL, AWS, Nix, GitHub Actions, Terraform and k8s
+    As a software engineer w/ Go, Ruby, TypeScript, MySQL, AWS, Nix, GitHub Actions, Terraform and k8s
 
 # Publications
 ## 『つくってかんたんVM-Based Interpreter』 from 『Dragon University 技術書典5』
