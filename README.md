@@ -47,16 +47,7 @@ I am looking for an environment, regardless of industry, that offers these kinds
 - Nix
 - Terraform
 - k8s
-
-## Other
-- Git (locally, GitHub, BitBucket)
-
-    + GitHub activities
-
-        Please log in to see them.
-
-        * [Issues](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aissue+author%3ANymphium+archived%3Afalse+)
-        * [Pull Requess](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ANymphium+archived%3Afalse+)
+- Git
 
 # Main works
 ## llix
