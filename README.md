@@ -11,7 +11,7 @@ refer: https://nymphium.github.io/aboutme.html
 - Twitter: <https://twitter.com/Nymphium>
 
 # Summary
-I'm a full-time software engineer working at [eiicon, Inc.](https://corp.eiicon.net).
+I'm a full-time software engineer working at [HERP, Inc.](https://herp.co.jp).
 My interests lie in functional programming languages and their mechanisms, especially program conversion, control operators, delimited continuation, and algebraic effects.
 
 # Introduction
@@ -105,14 +105,14 @@ We investigated the relationship between asymmetric coroutines and algebraic eff
 # Work career
 - National Institute of Advanced Industrial Science and Technology, Part-time, 09/2014 ~ 02/2015.
 - AgilePoint Japan, Part-time, 05/2015 ~ 11/2018.
-- HERP, inc. Part-time, 11/2018 ~ 03/2020, and full-time, 04/2020 ~ 03/2023
+- HERP, inc. Part-time, 11/2018 ~ 03/2020, and full-time, 04/2020 ~ 03/2023, 05/2026
 
     As a software engineer w/ TypeScript, Haskell, MySQL, Nix, GitHub Actions and k8s
 - Linux Development head office, Fujitsu, as an internship, 09/2015 ~ 10/2015
 - Kanmu, inc. Full-time, 04/2023 ~ 08/2024
 
     As a software engineer w/ Go, Python, PostgreSQL and GitHub Actions
-- eiicon, inc. 09/2024 ~ Present
+- eiicon, inc. 09/2024 ~ 04/2026
 
     As a software engineer w/ Go, Ruby, TypeScript, MySQL, AWS, Nix, GitHub Actions, Terraform and k8s
 
